@@ -1,0 +1,1 @@
+document.getElementById("karesz1").addEventListener("")
